@@ -29,10 +29,11 @@ The goal of this project is to build an **automated classification system** to d
 
 <img width="835" height="374" alt="image" src="https://github.com/user-attachments/assets/9a748b13-a650-47b7-8007-9076d9c4ba22" />
 
-<div style="display: flex; justify-content: center; gap: 50px;">
-  <img src="https://github.com/user-attachments/assets/89d2aca6-2c38-48b6-8841-007c1369a9cb" width="330"/>
-  <img src="https://github.com/user-attachments/assets/0922f50b-5227-4230-9d2c-c5d8df3e6b45" width="330"/>
+<div style="display: flex; justify-content: center; gap: 100px;">
+  <img src="https://github.com/user-attachments/assets/89d2aca6-2c38-48b6-8841-007c1369a9cb" width="350"/>
+  <img src="https://github.com/user-attachments/assets/0922f50b-5227-4230-9d2c-c5d8df3e6b45" width="350"/>
 </div>
+
 
 
 

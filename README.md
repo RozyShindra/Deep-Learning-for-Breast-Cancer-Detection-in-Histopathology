@@ -25,7 +25,7 @@ The goal of this project is to build an **automated classification system** to d
 
 ## 📊 Results  
 - Achieved high classification performance with **Accuracy**: 96%    
-- Credit Performance : Transfer Learning
+- Performance Credit : Transfer Learning
 
 Confusion matrix and training curves are available in the notebook.  
 

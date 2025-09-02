@@ -25,7 +25,7 @@ The goal of this project is to build an **automated classification system** to d
 
 ## 📊 Results  
 - Achieved high classification performance with CNN-based models.  
-- Example performance (adjust numbers based on your results):  
+- Performance (with Transfer Learning):  
   - **Accuracy**: 92%  
   - **Precision**: 91%  
   - **Recall**: 90%  

@@ -19,17 +19,13 @@ The goal of this project is to build an **automated classification system** to d
 - **Model Development, Training & Evaluation**  
   - Implemented a **Transfer Learning based CNN architecture** for feature extraction and classification.    
   - Trained models using cross-entropy loss and Adam optimizer.  
-  - Evaluated using **accuracy, precision, recall, and F1-score**.  
 
 ---
 
+
 ## 📊 Results  
-- Achieved high classification performance with CNN-based models.  
-- Performance (with Transfer Learning):  
-  - **Accuracy**: 92%  
-  - **Precision**: 91%  
-  - **Recall**: 90%  
-  - **F1-Score**: 90%  
+- Achieved high classification performance with **Accuracy**: 96%    
+- Credit Performance : Transfer Learning
 
 Confusion matrix and training curves are available in the notebook.  
 
@@ -40,7 +36,3 @@ Confusion matrix and training curves are available in the notebook.
 - Use **transformer-based architectures** (ViT, Swin Transformer) for improved accuracy. Utilizing **GAN** for handling data imbalance by generating realistic data. 
 - Apply **explainability methods** (Grad-CAM, SHAP) to highlight decision regions.  
 - Deploy as a **web app** for pathologists to use in real-time diagnosis.  
-
----
-
-## 📂 Project Structure  

@@ -43,6 +43,7 @@ The goal of this project is to build an **automated classification system** to d
 
 ## 🚀 Future Scope  
 - Extend to **multi-class classification** (different cancer subtypes).  
-- Use **transformer-based architectures** (ViT, Swin Transformer) for improved accuracy. Utilizing **GAN** for handling data imbalance by generating realistic data. 
+- Use **transformer-based architectures** (ViT, Swin Transformer) for improved accuracy. Utilizing **GAN** for handling data imbalance by generating realistic data.
+- Experiments show that the **ResNet model** with **data augmentation** outperforms state-of-the-art models. Future work can explore **transfer learning** and **segmentation** for improved efficiency and generalization.
 - Apply **explainability methods** (Grad-CAM, SHAP) to highlight decision regions.  
 - Deploy as a **web app** for pathologists to use in real-time diagnosis.  
